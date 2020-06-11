@@ -1,2 +1,2 @@
 # internsg-scrapper
-A Python scraper for scrapping https://www.internsg.com/jobs/ 
+A Python scraper for scraping https://www.internsg.com/jobs/ 
